@@ -8,4 +8,4 @@
 # test by postman
 
 # API documentation
-https://www.getpostman.com/collections/d3c5976a4e16dee1e3cc
+https://documenter.getpostman.com/view/7011800/Tz5p6djd
